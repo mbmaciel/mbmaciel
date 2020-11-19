@@ -2,14 +2,18 @@
 
 
 - 🔭 Dono do projeto Justicalc.
+
 justicalc.com.br
 
 - 🌱 Aprendendo
+
 Nodejs e React
 
 - 💬 Contatos
-m@mbmaciel.com
+
+m@mbmaciel.com , mbmaciel@gmail.com
 
 - 📫 Social
+
 instagram: mbmaciel
 
