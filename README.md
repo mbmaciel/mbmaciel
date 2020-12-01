@@ -4,6 +4,8 @@
 
 mbmaciel.com
 
+https://mbmaciel.com/images/logo.png
+
 - 🔭 Dono do projeto Justicalc
 
 justicalc.com.br
