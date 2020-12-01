@@ -4,7 +4,7 @@
 
 mbmaciel.com
 
-![Mbmaciel Logo](https://mbmaciel.com/images/logo.png)
+![Mbmaciel Logo](https://mbmaciel.com/images/images/logox144.png)
 
 
 - 🔭 Dono do projeto Justicalc
