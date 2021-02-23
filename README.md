@@ -1,3 +1,5 @@
+/github/followers/:user?label=Follow
+
 ### Sobre Mbmaciel
 
 - Website principal
