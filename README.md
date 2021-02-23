@@ -1,4 +1,4 @@
-/github/followers/:user?label=Follow
+![GitHub followers](https://img.shields.io/github/followers/mbmaciel?style=social)
 
 ### Sobre Mbmaciel
 
