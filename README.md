@@ -23,3 +23,6 @@ m@mbmaciel.com , mbmaciel@gmail.com
 
 instagram: mbmaciel
 
+
+[![Mbmaciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbmaciel)](https://github.com/anuraghazra/github-readme-stats)
+
