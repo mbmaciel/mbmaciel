@@ -21,6 +21,10 @@
 </p>
 
 <p align="left">
+  🏢 Projetos: <strong>Mbmaciel.com, Justicalc.com.br, redebet.online </strong>
+</p>
+
+<p align="left">
      Contatos: ⤵️
 </p>
 
