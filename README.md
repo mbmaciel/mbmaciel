@@ -4,16 +4,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Mauricio Maciel => <strong>Desenvolvedor Back-end</strong>.<br>
+  Mauricio Maciel => <strong>Desenvolvedor back-end</strong>.<br>
   Trabalhando como desenvolvedor desde 2008. Tenho expriência também em infra com ambientes windows e Linux.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#, Python, PHP, Bash, C++, Javascript, NodeJS</strong>
+  🦄 Linguagens: <strong>C#, Python, PHP, Bash, C++, Javascript, NodeJS.</strong>
 </p>
 
 <p align="left">
   💼 Ferramentas: <strong>SQLServer, MySQL, Docker.</strong>
+</p>
+
+<p align="left">
+  💻 Cloud: <strong>Azure, Google Cloud, Amazon AWS, AliCloud, IBM, Heroku.</strong>
 </p>
 
 <p align="left">
