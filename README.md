@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Mauricio Maciel => <strong>Desenvolvedor back-end</strong>.<br>
+  Mauricio Maciel => <strong>Desenvolvedor web / mobile </strong>.<br>
   Trabalhando como desenvolvedor desde 2008. Tenho expriência também em infra com ambientes windows e Linux.
 </p>
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>SQLServer, MySQL, Docker.</strong>
+  💼 Ferramentas: <strong>SQLServer, MySQL, Xamarin, Docker.</strong>
 </p>
 
 <p align="left">
