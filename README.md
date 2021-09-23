@@ -1,41 +1,37 @@
 ![GitHub followers](https://img.shields.io/github/followers/mbmaciel?style=social)
 
 
-# Mbmaciel
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-Hi! My name is Mauricio, I am a developer from Brazil. I also love mountain bike e photografy. On last 12 years I am working on my own company at Mbmaciel.com. 
-Other project I'm always on development is justicalc.com.br
+<p align="left"> 
+  Mauricio Maciel => <strong>Desenvolvedor Back-end</strong>.<br>
+  Trabalhando como desenvolvedor desde 2008. Tenho expriência também em infra com ambientes windows e Linux.
+</p>
 
+<p align="left">
+  🦄 Linguagens: <strong>C#, Python, PHP, Bash, C++, Javascript, NodeJS</strong>
+</p>
 
-# Some Stacks
+<p align="left">
+  💼 Ferramentas: <strong>SQLServer, MySQL, Docker.</strong>
+</p>
 
-Actualy I'm using PHP, ASP.net (C#) , Python , NodeJs, Javascript, ReactJs, Xamarin, C++ on my daily work. 
+<p align="left">
+     Contatos: ⤵️
+</p>
 
-# Sobre Mbmaciel
+<p align="left">
+  <a href="mailto:mbmaciel@gmail.com?subject=Ola" target="_blank" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="/>
+  </a>
 
-- Website principal
+  <a href="https://www.linkedin.com/in/mbmaciel/" target="_blank" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="/></a>
 
-mbmaciel.com
+  <a href="https://api.whatsapp.com/send?phone=5521982957672" target="_blank" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-![Mbmaciel Logo](https://mbmaciel.com/images/images/logox144.png)
-
-
-- 🔭 Dono do projeto Justicalc
-
-justicalc.com.br
-
-- 🌱 Aprendendo
-
-Nodejs e React
-
-- 💬 Contatos
-
-m@mbmaciel.com , mbmaciel@gmail.com
-
-- 📫 Social
-
-instagram: mbmaciel
-
+</p>  
 
 [![Mbmaciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbmaciel)](https://github.com/mbmaciel)
 
