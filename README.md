@@ -42,3 +42,5 @@
 </p>  
 
 [![Mbmaciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbmaciel)](https://github.com/mbmaciel)
+
+<p><img src="https://raw.githubusercontent.com/mbmaciel/mbmaciel/main/github-contribution-grid-snake.svg" /> </p>
