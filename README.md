@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  🏢 Projetos: <strong>Mbmaciel.com, Justicalc.com.br, redebet.online </strong>
+  🏢 Projetos: <strong>Mbmaciel.com, Justicalc.com.br, Unobot.com.br </strong>
 </p>
 
 <p align="left">
