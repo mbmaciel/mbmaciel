@@ -4,16 +4,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Mauricio Maciel => <strong>Desenvolvedor web / mobile </strong>.<br>
-  Trabalhando como desenvolvedor desde 2008. Tenho expriência também em infra com ambientes windows e Linux.
+  Mauricio Maciel => <strong>Web developer / mobile </strong>.<br>
+  Working as developer since 2008. 
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#, Python, PHP, Bash, C++, Javascript, NodeJS.</strong>
+  🦄 Programming Languages: <strong>C#, Python, PHP, Bash, C++, Javascript, NodeJS.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>SQLServer, MySQL, Xamarin, Docker.</strong>
+  💼 Tools: <strong>SQLServer, MySQL, Xamarin, Docker.</strong>
 </p>
 
 <p align="left">
@@ -21,11 +21,11 @@
 </p>
 
 <p align="left">
-  🏢 Projetos: <strong>Mbmaciel.com, Justicalc.com.br, Unobot.com.br </strong>
+  🏢 Projects: <strong>Mbmaciel.com, Justicalc.com.br, Unobot.com.br </strong>
 </p>
 
 <p align="left">
-     Contatos: ⤵️
+     Contacts: ⤵️
 </p>
 
 <p align="left">
