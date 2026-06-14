@@ -9,19 +9,19 @@
 </p>
 
 <p align="left">
-  🦄 Programming Languages: <strong>C#, Python, PHP, Bash, C++, Javascript, NodeJS.</strong>
+  🦄 Programming Languages: <strong>TypeScript, Python, PHP, Bash, C++, Javascript, NodeJS.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>SQLServer, MySQL, Xamarin, Docker.</strong>
+  💼 Tools: <strong>SQLServer, PostgreSQL, MySQL, Xamarin, Docker.</strong>
 </p>
 
 <p align="left">
-  💻 Cloud: <strong>Azure, Google Cloud, Amazon AWS, AliCloud, IBM, Heroku.</strong>
+  💻 Cloud: <strong>Azure, Google Cloud, Amazon AWS, Vercel, AliCloud, IBM, Heroku.</strong>
 </p>
 
 <p align="left">
-  🏢 Projects: <strong>Mbmaciel.com, Justicalc.com.br, Unobot.com.br </strong>
+  🏢 Projects: <strong>Mbmaciel.com, Clinicwise.com.br, Cripto.mbmaciel.com </strong>
 </p>
 
 <p align="left">
